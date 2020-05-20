@@ -1,0 +1,6 @@
+name = input("Name : ")
+branch = input("Branch : ")
+gender = input("Gender : ")
+college = input("College : ")
+age = int(input("Age : "))
+print(name , branch , gender, college ,age , sep = '\n')
