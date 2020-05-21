@@ -1,0 +1,5 @@
+l = input( " List Separated by space: ").split()
+s = set()
+s.update(l)            
+l = list(s)
+print(" Updated List : "),l)
